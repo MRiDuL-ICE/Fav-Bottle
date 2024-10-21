@@ -1,0 +1,21 @@
+.cart-container{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 5;
+    border: 2px solid gray;
+    padding: 15px;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.img{
+    margin: 5px;
+}
+
+.button{
+    background: #a39e9ebe;
+}
+.button:hover{
+    background: #ffffffbe;
+}

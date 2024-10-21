@@ -1,0 +1,11 @@
+.box-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.button{
+    background: #a39e9ebe;
+}
+.button:hover{
+    background: #ffffffbe;
+}
